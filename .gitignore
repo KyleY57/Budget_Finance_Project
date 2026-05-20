@@ -1,0 +1,9 @@
+Plaintext
+# Office Temporary Files
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+
+# Windows system files
+Thumbs.db
+desktop.ini
