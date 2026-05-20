@@ -15,4 +15,4 @@ Future Adjustments (WIP):
 Version 1 let me get familiar with excel basics, while Version 2 put a heavier emphasis on calculations within excel. 
 VBA macros and manipulating dataset would be my next goal. 
 Possible ideas for macros would be: Annuity calculations using the savings we collected, possible future promotion adjustments to salary and inflations to adjust values.
-As far as manipulating datasets go, using a table that we generated may not be the best idea. Future project idea may be to use an existing REAL dataset then manipulate that rather than manipulate a dataset that was simulated from information. 
+As far as manipulating datasets go, using a table that we generated may not be the best idea. Future project idea may be to use an existing REAL dataset then manipulate that rather than manipulate a dataset that was simulated from information. Taking advantage of features like pivot tables and testing other ways to manipulate data is the next goal.
